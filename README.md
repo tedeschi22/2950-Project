@@ -19,3 +19,5 @@ Dataset 3
 This dataset contains the results of over 1 million football games from 207 top-tier domestic leagues and 20 international tournaments. The results are gathered from 1888-2019. The data includes many different variables including the league, country, date, goals, continent, level and more.
 
 https://github.com/schochastics/football-data
+
+Dataset 3 is my favorite so far.
