@@ -1,8 +1,6 @@
 # 2950 Project
  2950 Data Science Project
 
-I love coffee and Korean food!
-
 
 Dataset 1
 Tracking online tracking malicious websites and online activity in relation to the corona virus
